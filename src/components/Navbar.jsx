@@ -15,7 +15,7 @@ const Navbar = () => {
        <div className="flex justify-around">
        <Link to="/portfolio"><div><p className="uppercase font-Gadugi hover:underline hover:text-red-300 transition-all duration-300">Portfolio</p></div></Link>
        <Link to="/contacto"><div><p className="uppercase font-Gadugi hover:underline hover:text-red-300 transition-all duration-300">Contacto</p></div></Link>
-       <Link to="/nhp"><div><p className="uppercase font-Gadugi hover:underline hover:text-red-300 transition-all duration-300">Inicio</p></div></Link>
+       <Link to="/"><div><p className="uppercase font-Gadugi hover:underline hover:text-red-300 transition-all duration-300">Inicio</p></div></Link>
        <Link to="/sobremi"><div><p className="uppercase font-Gadugi hover:underline hover:text-red-300 transition-all duration-300">Sobre mí</p></div></Link>
        <Link to="/tequiero"><div><p className="uppercase font-Gadugi hover:underline hover:text-red-300 transition-all duration-300">Te quiero</p></div></Link>
      </div>
