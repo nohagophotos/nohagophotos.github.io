@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0c64881.css",
+    "main.js": "/static/js/main.42ded6d4.js",
+    "static/js/453.4775b3bf.chunk.js": "/static/js/453.4775b3bf.chunk.js",
+    "static/media/gadugi-bold.ttf": "/static/media/gadugi-bold.94f1987150497b646b4f.ttf",
+    "static/media/logo-black.png": "/static/media/logo-black.dfc90af8c84b58b6e7c8.png",
+    "static/media/fontspring-demo-15.ttf": "/static/media/fontspring-demo-15.2ae25b1378cf1c3b77a4.ttf",
+    "index.html": "/index.html",
+    "main.e0c64881.css.map": "/static/css/main.e0c64881.css.map",
+    "main.42ded6d4.js.map": "/static/js/main.42ded6d4.js.map",
+    "453.4775b3bf.chunk.js.map": "/static/js/453.4775b3bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c64881.css",
+    "static/js/main.42ded6d4.js"
+  ]
+}
