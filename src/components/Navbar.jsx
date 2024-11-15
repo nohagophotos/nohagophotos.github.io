@@ -6,10 +6,10 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
  return (
-   <div className='bg-nhpred'>
+   <div className='bg-nhpred sticky top-0 w-full'>
      <div>
        <img src={nphblack} alt="Logo" className="w-36 m-auto" />
-       <p className='font-Fontspring text-center'>Productions</p>
+       <p className='font-Fontspring text-center text-xl'>Productions</p>
      </div>
     
        <div className="flex justify-around">

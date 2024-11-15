@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
 
 
 const contacto = () => {
@@ -18,6 +19,7 @@ const contacto = () => {
            <div className='border-2 border-black w-6/12 h-full m-auto flex flex-col'>
            </div>
            </div>
+           <Footer/>
        </>
    )
 }
