@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
  return (
-   <div className='bg-nhpred sticky top-0 w-full'>
+   <div className='bg-nhpred sticky top-0 w-full z-50'>
      <div>
        <img src={nphblack} alt="Logo" className="w-36 m-auto" />
        <p className='font-Fontspring text-center text-xl pb-2'>Productions</p>
