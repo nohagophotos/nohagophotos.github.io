@@ -18,6 +18,10 @@ const Portfolio = () => {
     navigate('/estudio')
   }
 
+  const fiestta = () => {
+    navigate('/fiesta')
+  }
+
   const navigate = useNavigate();
 
  return (
@@ -36,6 +40,8 @@ const Portfolio = () => {
    <div className='w-9/12 h-72 m-auto flex'>
    <div className='border-2 border-black w-4/12 h-72 m-auto flex justify-around hover:bg-nhpred opacity-75 transition-all duration-300 mt-0' onClick={urbanno}>
    <p className='text-center font-Fontspring self-center text-xl'>URBANO</p></div>
+   <div className='border-2 border-black w-4/12 h-72 m-auto flex justify-around hover:bg-nhpred opacity-75 transition-all duration-300 mt-0' onClick={fiestta}>
+   <p className='text-center font-Fontspring self-center text-xl'>FIESTA</p></div>
    </div>
    <div className='w-9/12 h-96 m-auto mt-6 flex'>
    <div className='border-2 border-black w-6/12 h-72 m-auto'></div>

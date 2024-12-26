@@ -10,6 +10,7 @@ import Urbano from './pages/urbano';
 import Bodas from './pages/bodas';
 import Retrato from './pages/retrato';
 import Estudio from './pages/estudio';
+import Fiesta from './pages/fiesta';
 
 function App() {
  return (
@@ -25,6 +26,7 @@ function App() {
        <Route path="/retrato" element={<Retrato/>}/>
        <Route path="/estudio" element={<Estudio/>}/>
        <Route path="/urbano" element={<Urbano/>}/>
+       <Route path="/fiesta" element={<Fiesta/>}/>
      </Routes>
    </div>
  );
