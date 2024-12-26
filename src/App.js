@@ -15,6 +15,7 @@ import Fiesta from './pages/fiesta';
 function App() {
  return (
    <div>
+    //prueba
      <Routes>
        <Route path="/" element={<Inicio/>}/>
        <Route path="/contacto" element={<Contacto/>}/>
